@@ -1,0 +1,24 @@
+{
+  "students": [
+    { "name": "Juan Dela Cruz", "gwa": 1.75 },
+    { "name": "Maria Santos", "gwa": 1.50 },
+    { "name": "Jose Rizal", "gwa": 1.25 },
+    { "name": "Andres Bonifacio", "gwa": 2.00 },
+    { "name": "Emilio Aguinaldo", "gwa": 1.80 },
+    { "name": "Apolinario Mabini", "gwa": 1.40 },
+    { "name": "Melchora Aquino", "gwa": 1.90 },
+    { "name": "Gabriela Silang", "gwa": 1.60 },
+    { "name": "Lapu-Lapu", "gwa": 2.10 },
+    { "name": "Antonio Luna", "gwa": 1.30 },
+    { "name": "Marcelo Del Pilar", "gwa": 1.55 },
+    { "name": "Graciano Lopez Jaena", "gwa": 1.85 },
+    { "name": "Diego Silang", "gwa": 2.20 },
+    { "name": "Sultan Kudarat", "gwa": 1.95 },
+    { "name": "Leona Florentino", "gwa": 1.70 },
+    { "name": "Fernando Amorsolo", "gwa": 1.45 },
+    { "name": "Carlos P. Romulo", "gwa": 1.65 },
+    { "name": "Corazon Aquino", "gwa": 1.80 },
+    { "name": "Benigno Aquino Jr.", "gwa": 1.75 },
+    { "name": "Manuel Quezon", "gwa": 1.50 }
+  ]
+}
