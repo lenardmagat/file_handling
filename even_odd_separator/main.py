@@ -2,6 +2,12 @@ PATH = "C:\\Users\\Marry Bless Magat\\Documents\\Lenard Files\\arduino ide\\file
 numbers = []
 even = []
 odd = []
-with open(PATH + "numbers", "r") as file:
+with open(PATH + "numbers.txt", "r") as file:
     for line in file:
-        numbers.append(line)
+        numbers.append(float(line.strip()))
+
+for i in numbers:
+    if i % 2 == 0:
+        even.append(i)
+        continue
+    odd.append(i)
